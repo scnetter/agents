@@ -1,2 +1,5 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Kelly Netterville. I'm a seasoned technology professional with decades of experience spanning programming, network engineering and design, cybersecurity, systems testing, and operations. I currently work as a SOC Analyst at Calian Corporation, specializing in threat detection and response. My career has included roles at major vendors like Nortel and Cisco, as well as service providers including Ribbon, Kandy, and AVC Technologies.
+
+Beyond cybersecurity, I’m actively expanding my skills in AI solution engineering, including building custom AI assistants, multi-agent systems, and integrating AI into everyday workflows. I’m also diving deeper into Python, LangChain, and plan to start learning more about smart contract development using Solidity in the future.
+
+In my personal life, I’m a U.S. Army combat veteran, a dog dad to a full range of dog sized machines of destruction (mini Schnauzer, cattle dog mix, and a Great Dane), and an avid language learner working on conversational Mandarin for an upcoming trip to China.
